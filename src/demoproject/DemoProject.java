@@ -15,6 +15,8 @@ public class DemoProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        student [] students = new student[2];
+        students[0] = new student ("Tirth");
     }
     
 }
